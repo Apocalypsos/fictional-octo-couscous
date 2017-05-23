@@ -240,7 +240,7 @@
         status: false,
         name: "LatvianBot",
         loggedInID: null,
-        scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+        scriptLink: "https://rawgit.com/Apocalypsos/fictional-octo-couscous/master/latvianbot.js",
         cmdLink: "http://git.io/245Ppg",
         chatLink: "https://rawgit.com/Apocalypsos/fictional-octo-couscous/master/lv.json",
         chat: null,
@@ -251,7 +251,7 @@
             botName: "LatvianBot",
             language: "english",
             chatLink: "https://rawgit.com/Apocalypsos/fictional-octo-couscous/master/lv.json",
-            scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
+            scriptLink: "https://rawgit.com/Apocalypsos/fictional-octo-couscous/master/latvianbot.js",
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
